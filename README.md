@@ -33,13 +33,18 @@ Jupyter Notebooky v jazyce Python3 pro předmět Přetváření a porušování 
 
 * Maxwell_unit_relaxation_interact.ipynb = relaxační funkce Mawellova článku, přerozdělení deformace mezi pružinou a tlumičem
 
-
 * Poynting-Thomson_relaxation_interact.ipynb = relaxační funkce modelu Poynting-Thomson, přerozdělení deformace mezi pružinou a Kelvinovým článkem
+
+* Maxwell_chain_relaxation_interact = relaxační funkce Maxwellova řetězce, možnost volby počtu článků a úpravy parametrů, zobrazení v lineárním a semilogaritmickém měříku, porovnání s experimentálními daty
+
+* Maxwell_chain_prescribed_strain_interact = odezva Maxwellova řetězce na zatížení předepsanou deformací (po částech lineární), možnost ilustrace relaxace pro případ okamžitého předepsání konstantní deformace
 
 
 ### Dotvarování podle norem
 
 * creep_shrinkage_fib_MC2010_interact.ipynb = funkce poddajnosti a relaxační funkce podle fib MC 2010 (fib Bulletin 65, 2012), vývoj celkové deformace včetně nesilové složky, přesnost predikce dle fib pro dotvarování a smršťování
+
+* creep_shrinkage_fib_MC2010_plot.ipynb = vykreslení a uložení grafu funkce poddajnosti a relaxační funkce podle fib MC 2010 (fib Bulletin 65, 2012), vývoj celkové deformace včetně nesilové složky
 
 
 ## Spuštění notebooku
