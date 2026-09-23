@@ -1,0 +1,13 @@
+{
+  "LiteBuildConfig": {
+    "extra_ignore_contents": [
+      "/\\.git",
+      "/\\.github",
+      "/\\.jupyter",
+      "/\\.ipynb_checkpoints",
+      "/dist",
+      "/requirements\\.txt",
+      "/jupyter_lite_config\\.json"
+    ]
+  }
+}
